@@ -6,7 +6,7 @@ I'm a passionate Software Engineer from Karnataka. I love coding, and I'm always
 
 - HTML
 - CSS
-- Javascript
+`:javascript:` Javascript
 - PHP
 - MYSQL
 - BOOTSTRAP 5
