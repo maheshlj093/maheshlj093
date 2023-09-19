@@ -24,6 +24,7 @@ I'm a passionate Software Engineer from Karnataka. I love coding, and I'm always
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/mahesh93) or [Twitter](https://twitter.com/maheshj290?t=T6W0pjM0vV8ZQSG5XBGWAQ&s=08).
 
 ## 🚀 My GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshlj093&show_icons=true&count_private=true)
 
 ## 💼 My Projects
