@@ -3,10 +3,14 @@
 I'm a passionate Software Engineer from Karnataka. I love coding, and I'm always eager to learn and explore new things.
 
 ## 🔧 Skills
-
+- :python: Python
+- :javascript: JavaScript
+- :java: Java
+- :ruby: Ruby
+- :php: PHP
 - HTML
 - CSS
-:javascript: Javascript
+- 💻 Javascript
 - PHP
 - MYSQL
 - BOOTSTRAP 5
