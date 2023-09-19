@@ -4,7 +4,16 @@ I'm a passionate Software Engineer from Karnataka. I love coding, and I'm always
 
 ## 🔧 Skills
 
-- HTML,- CSS,- Javascript,- PHP,- MYSQL,- BOOTSTRAP 5,- MATERIALIZE CSS,- JQUERY,- AJAX,- API CREATION
+- HTML
+- CSS
+- Javascript
+- PHP
+- MYSQL
+- BOOTSTRAP 5
+- MATERIALIZE CSS
+- JQUERY
+- AJAX
+- API CREATION
   
 ## 🌱 Currently Learning
 
