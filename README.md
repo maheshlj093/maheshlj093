@@ -3,17 +3,9 @@
 I'm a passionate Software Engineer from Karnataka. I love coding, and I'm always eager to learn and explore new things.
 
 ## 🔧 Skills
-- HTML
-- CSS
-- Javascript
-- PHP
-- MYSQL
-- BOOTSTRAP 5
-- MATERIALIZE CSS
-- JQUERY
-- AJAX
-- API CREATION
 
+- HTML,- CSS,- Javascript,- PHP,- MYSQL,- BOOTSTRAP 5,- MATERIALIZE CSS,- JQUERY,- AJAX,- API CREATION
+  
 ## 🌱 Currently Learning
 
 - ReactJS
