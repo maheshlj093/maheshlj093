@@ -14,7 +14,7 @@ I'm a passionate Software Engineer from Karnataka. I love coding, and I'm always
 - JQUERY
 - AJAX
 - API CREATION
-  
+- AngularJs
 ## 🌱 Currently Learning
 
 - ReactJS
