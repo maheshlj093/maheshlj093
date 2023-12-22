@@ -11,13 +11,14 @@ I'm a passionate Software Engineer from Karnataka. I love coding, and I'm always
 - MYSQL
 - BOOTSTRAP 5
 - MATERIALIZE CSS
+- Tailwind CSS
 - JQUERY
 - AJAX
 - API CREATION
 - AngularJs
+- ReactJS
 ## 🌱 Currently Learning
 
-- ReactJS
 - Laravel
 
 ## 📫 How to Reach Me
