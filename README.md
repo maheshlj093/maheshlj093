@@ -29,10 +29,7 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/mahesh93) or [
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshlj093&show_icons=true&count_private=true)
 
-<!-- GIF on the right side -->
-<div align="right">
-    <img src="path/to/your/gif.gif" alt="Fun GIF" width="300px">
-</div>
+
 ## 💼 My Projects
 
 Here are some projects I'm proud of:
